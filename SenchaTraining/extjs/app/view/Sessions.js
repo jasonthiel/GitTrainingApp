@@ -14,7 +14,7 @@ Ext.define("SE.view.Sessions",
              {
                  xtype: 'gridcolumn',
                  dataIndex: 'name',
-                 text: 'Course Name',
+                 text: 'Name',
                  flex: 1,
                  minWidth: 100,   // fixes min column width
                  width: 75
